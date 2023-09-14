@@ -2,6 +2,11 @@
 
 ### Hi there 👋
 
+![Java](https://img.shields.io/badge/Java-437291?style=flat&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white)
+![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=SpringBoot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)
+
 <!--
 **kwontory/kwontory** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
