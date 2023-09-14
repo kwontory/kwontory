@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=transparent&height=65&section=header&text=Jihyeon%20Kwon-nl-Junior%20Developer&fontColor=a7a49d&fontSize=32&animation=blink&fontAlign=15&fontAlign=20.35&fontAlignY=40&fontAlignY=80)
+
 ### Hi there 👋
 
 <!--
