@@ -1,5 +1,11 @@
 [capsule-render]: # (capsule-render, header)
-![header](https://capsule-render.vercel.app/api?type=transparent&height=65&section=header&text=Jihyeon%20Kwon&fontColor=a7a49d&fontSize=32&animation=blink&fontAlign=15&fontAlign=20.35&fontAlignY=40&fontAlignY=80)
+![header](https://capsule-render.vercel.app/api?type=transparent&height=40&section=header&text=Jihyeon%20Kwon&fontColor=a7a49d&fontSize=32&animation=blink&fontAlign=15&fontAlign=20.35&fontAlignY=65)
+
+#### Jihyeon / Backend Developer
+
+#### My values
+
+#### How I work
 
 #### **Tech Stack**
 ![Java](https://img.shields.io/badge/Java-437291?style=flat&logo=openjdk&logoColor=white)
