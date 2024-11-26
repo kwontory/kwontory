@@ -1,5 +1,5 @@
 [capsule-render]: # (capsule-render, header)
-![header](https://capsule-render.vercel.app/api?type=transparent&height=40&section=header&text=Jihyeon%20Kwon&fontColor=a7a49d&fontSize=32&animation=fadeIn&fontAlign=14&fontAlignY=65)
+![header](https://capsule-render.vercel.app/api?type=transparent&height=40&section=header&text=Jihyeon%20Kwon&fontColor=a7a49d&fontSize=32&animation=fadeIn&fontAlign=12.5&fontAlignY=65)
 
 #### Jihyeon / Backend Developer
 
