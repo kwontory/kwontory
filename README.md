@@ -3,9 +3,7 @@
 
 #### Jihyeon / Backend Developer
 
-#### My values
-
-#### How I work
+#### Enjoy coding, focus on myself each day, and keep pushing forward.
 
 #### **Tech Stack**
 ![Java](https://img.shields.io/badge/Java-437291?style=flat&logo=openjdk&logoColor=white)
