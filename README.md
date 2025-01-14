@@ -2,8 +2,6 @@
 
 Enjoy coding, focus on myself each day, and keep pushing forward.
 
-<br/>
-
 ## **👾 Tech Stack**
 
 ### Backend
@@ -26,7 +24,6 @@ Enjoy coding, focus on myself each day, and keep pushing forward.
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
 
-<br/>
 
 ## **🧰 Tools**
 
@@ -38,7 +35,6 @@ Enjoy coding, focus on myself each day, and keep pushing forward.
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white)   
 
-<br/>
 
 ## **☕ Contect**
 ![Gmail](https://img.shields.io/badge/victory.jihyeon@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white) 
