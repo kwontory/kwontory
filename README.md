@@ -40,6 +40,6 @@ Enjoy coding, focus on myself each day, and keep pushing forward.
 
 ## **☕ Contect**
 ![Gmail](https://img.shields.io/badge/victory.jihyeon@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white)   
-<a href="https://kwontory.github.io/blog">
+<a href="https://kwontory.github.io/blog" target="_blank">
 ![GitHub Blog](https://img.shields.io/badge/Blog-181717?style=flat&logo=GitHub&logoColor=black?link=https://kwontory.github.io/blog)
 </a>
