@@ -12,7 +12,6 @@ Enjoy coding, focus on myself each day, and keep pushing forward.
 ![SpringFramework](https://img.shields.io/badge/Spring%20Framework-6DB33F?style=flat-square&logo=Spring&logoColor=white)   
 ![SpringSecurity](https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=SpringSecurity&logoColor=white)   
 ![SpringDataJPA](https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=flat-square&logo=Spring&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=Hibernate&logoColor=white)
 ![MyBatis](https://img.shields.io/badge/MyBatis-372b2b?style=flat-square)   
 
 ### DB
@@ -41,5 +40,5 @@ Enjoy coding, focus on myself each day, and keep pushing forward.
 ## **☕ Contect**
 ![Gmail](https://img.shields.io/badge/victory.jihyeon@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white)   
 <a href='https://kwontory.github.io/blog' target='_blank'>
-![GitHub Blog](https://img.shields.io/badge/Blog-181717?style=flat&logo=GitHub&logoColor=black?link=https://kwontory.github.io/blog)
+![Blog](https://img.shields.io/badge/Blog-181717?style=flat&logo=GitHub&logoColor=black?link=https://kwontory.github.io/blog)
 </a>
