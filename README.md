@@ -1,4 +1,4 @@
-### Jihyeon Kwon ₊˚⊹♡ / Web Developer
+### Jihyeon Kwon / Web Developer
 
 <br/>
 
